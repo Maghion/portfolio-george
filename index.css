@@ -75,12 +75,7 @@
       font-family: 'Abel', sans-serif;
   }
   
-button {
-    background-color: #FF7315;
-    width: 100px;
-    height: 25px;
-    border-radius: 15px;
-}
+
 
   .screenshotContainer {
       position: relative;
