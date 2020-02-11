@@ -2,7 +2,7 @@
     box-sizing: border-box;
   }
   
-  a {
+  a:not(.exclude) {
     text-decoration: none;
     color: black;
     background-color: #FF7315;
